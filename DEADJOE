@@ -1,0 +1,49 @@
+
+*** These modified files were found in JOE when it aborted on Sun Mar  1 23:14:10 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+file_uploads
+max_execution_time
+memory_limit
+log_errors
+output_buffering
+register_globals
+error_reporting
+
+max_execution_time
+img-responsive
+
+*** File '(Unnamed)'
+update.php
+update.php
+update.php
+update.php
+update.php
+speedtest.csv
+update.php
+speedtest.csv
+speedtest.csv
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+speedtest.php
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
